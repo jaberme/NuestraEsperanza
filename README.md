@@ -2,7 +2,7 @@
 
 Materiales de las charlas de ciberseguridad y bienestar digital del Colegio Juan XXIII de Caniles, organizadas por el AMPA Nuestra Esperanza.
 
-- **Web resumen de las sesiones:** https://jaberme.github.io/NuestraEsperanza/
+- **Web resumen de las sesiones:** https://cafe.ual.es/NuestraEsperanza/
 - `charlaPadres.pdf` — charla formativa para familias (protegida con contraseña).
 - `Primaria/CharlaPrimaria.pdf` — charla para 5.º y 6.º de Primaria, versión completa (protegida con contraseña).
 - `Primaria/CharlaPrimaria_30min.pdf` — versión de 30 minutos, «Misión Detective Digital» (protegida con contraseña).
