@@ -114,3 +114,10 @@ a.autor:hover,a.chip-link:hover{color:var(--brand-2)}
 a.chip-link{color:var(--brand);text-decoration:none;border-color:var(--brand)}
 a.chip-link:hover{background:var(--surface-2);text-decoration:underline;text-underline-offset:3px}
 a.chip-link small{color:var(--muted);font-weight:400;margin-left:6px}
+
+.cartel{padding:28px 0 8px;background:linear-gradient(160deg,var(--surface-2),var(--bg) 70%)}
+.cartel figure{margin:0 auto;max-width:560px;text-align:center}
+.cartel a{display:block;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line);background:var(--surface)}
+.cartel img{display:block;width:100%;height:auto}
+.cartel figcaption{margin-top:10px;color:var(--muted);font-size:.92rem}
+@media (max-width:640px){.cartel{padding:18px 0 4px}}
